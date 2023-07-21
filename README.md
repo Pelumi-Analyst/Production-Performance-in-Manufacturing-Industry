@@ -87,7 +87,7 @@ The following were the insights gotten from work order page and it answered the 
 ## Recommendation
 - Adequate inspection should be done at the right time to reduce the scrap quantities during the production process.
 
-_**To interact with the report, click [here]([https://app.powerbi.com/groups/me/reports/6695474d-a321-4914-b654-0b3a69243d10?ctid=7bb04057-9724-4194-9478-a76b704c6dc9&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiM2NmYzFjMWEtYWNkZS00NjI0LWJkYTItNWMxNzU4ODU3NDg0IiwidCI6IjdiYjA0MDU3LTk3MjQtNDE5NC05NDc4LWE3NmI3MDRjNmRjOSIsImMiOjF9)https://app.powerbi.com/view?r=eyJrIjoiM2NmYzFjMWEtYWNkZS00NjI0LWJkYTItNWMxNzU4ODU3NDg0IiwidCI6IjdiYjA0MDU3LTk3MjQtNDE5NC05NDc4LWE3NmI3MDRjNmRjOSIsImMiOjF9).**_
+_**To interact with the report, click [here](https://app.powerbi.com/view?r=eyJrIjoiM2NmYzFjMWEtYWNkZS00NjI0LWJkYTItNWMxNzU4ODU3NDg0IiwidCI6IjdiYjA0MDU3LTk3MjQtNDE5NC05NDc4LWE3NmI3MDRjNmRjOSIsImMiOjF9)**_
 
 ![](Thank_You.jpg)
 
