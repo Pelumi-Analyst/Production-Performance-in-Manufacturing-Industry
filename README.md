@@ -89,7 +89,7 @@ The following were the insights gotten from work order page and it answered the 
 
 _**To interact with the report, click [here](https://app.powerbi.com/groups/me/reports/6695474d-a321-4914-b654-0b3a69243d10?ctid=7bb04057-9724-4194-9478-a76b704c6dc9&pbi_source=linkShare).**_
 
-![](Thank You.jpg)
+![](Thank_You.jpg)
 
 **Thanks for staying through 🙇**
 
